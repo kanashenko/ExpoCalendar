@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<WatchedResource>WEB-INF/web.xml</WatchedResource>
+	<WatchedResource>WEB-INF/tomcat-web.xml</WatchedResource>
+	<WatchedResource>${catalina.base}/conf/web.xml</WatchedResource>	
+	<Resource name="dsExpo"
+			  auth="Container"
+			  type="javax.sql.DataSource"
+	 		  maxActive="100"
+	 		  maxIdle="30"
+	 		  maxWait="10000"
+              username="root"
+              password="root"
+              driverClassName="com.mysql.jdbc.Driver"
+              url="jdbc:mysql://localhost:3306/expocalendar?useLegacyDatetimeCode=false&amp;serverTimezone=UTC&amp;useSSL=false&amp;allowPublicKeyRetrieval=true"/>		
+</Context>

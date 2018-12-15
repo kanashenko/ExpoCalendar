@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+.th  {
+   height: 50px;
+}
+
+.floatedTable {
+	border-spacing: 4px;
+}
+
+.floatedTable td {
+	height: 20px;
+	overflow: hidden;
+}
+
+.TicketTable {
+	float: left;
+	border-spacing: 3px;
+}
+
+.TicketTable td {
+	height: 20px;
+	overflow: hidden;
+}
+
+.amountTable {
+   float: left;
+}
+
+.amountTable td {
+	height: 20px;
+	overflow: hidden;
+}
+
+
+
+
+
+
+
+
