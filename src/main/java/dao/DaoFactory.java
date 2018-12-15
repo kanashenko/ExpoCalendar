@@ -7,7 +7,7 @@
  *
  * Copyright by Mykyta Kanashchenko
  */
-package daoNew;
+package dao;
 
 import daoImpl.DaoExhibition;
 import daoImpl.DaoExpoHall;

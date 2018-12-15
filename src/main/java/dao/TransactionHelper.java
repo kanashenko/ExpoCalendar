@@ -7,7 +7,7 @@
  *
  * Copyright by Mykyta Kanashchenko
  */
-package daoNew;
+package dao;
 
 import java.sql.Connection;
 import java.sql.SQLException;

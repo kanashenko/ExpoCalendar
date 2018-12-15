@@ -7,7 +7,7 @@
  *
  * Copyright by Mykyta Kanashchenko
  */
-package daoNew;
+package dao;
 
 import java.util.List;
 import entity.Payment;

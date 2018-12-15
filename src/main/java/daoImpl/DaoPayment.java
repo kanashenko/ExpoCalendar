@@ -18,9 +18,9 @@ import java.util.List;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import connection.ConPool;
-import daoNew.DaoUtil;
-import daoNew.IdaoPayment;
-import daoNew.TransactionHelper;
+import dao.DaoUtil;
+import dao.IdaoPayment;
+import dao.TransactionHelper;
 import entity.Payment;
 
 public class DaoPayment implements IdaoPayment {

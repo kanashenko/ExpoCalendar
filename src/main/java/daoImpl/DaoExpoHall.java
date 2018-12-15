@@ -10,8 +10,9 @@
 package daoImpl;
 
 import java.util.List;
-import daoNew.DaoUtil;
-import daoNew.IdaoExpoHall;
+
+import dao.DaoUtil;
+import dao.IdaoExpoHall;
 import entity.ExpoHall;
 
 public class DaoExpoHall implements IdaoExpoHall {

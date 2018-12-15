@@ -18,7 +18,7 @@ import javax.sql.DataSource;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import daoNew.TransactionHelper;
+import dao.TransactionHelper;
 
 public class ConPool {
 

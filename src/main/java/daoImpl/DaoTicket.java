@@ -17,8 +17,8 @@ import java.util.List;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import connection.ConPool;
-import daoNew.DaoUtil;
-import daoNew.IdaoTicket;
+import dao.DaoUtil;
+import dao.IdaoTicket;
 import entity.Ticket;
 import exception.SoldOutException;
 

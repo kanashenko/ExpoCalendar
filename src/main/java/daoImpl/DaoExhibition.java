@@ -10,8 +10,9 @@
 package daoImpl;
 
 import java.util.List;
-import daoNew.DaoUtil;
-import daoNew.IdaoExhibition;
+
+import dao.DaoUtil;
+import dao.IdaoExhibition;
 import entity.Exhibition;
 
 public class DaoExhibition implements IdaoExhibition {

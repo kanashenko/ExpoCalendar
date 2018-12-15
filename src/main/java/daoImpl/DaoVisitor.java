@@ -10,8 +10,9 @@
 package daoImpl;
 
 import java.util.List;
-import daoNew.DaoUtil;
-import daoNew.IdaoVisitor;
+
+import dao.DaoUtil;
+import dao.IdaoVisitor;
 import entity.Visitor;
 
 public class DaoVisitor implements IdaoVisitor {

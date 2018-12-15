@@ -12,7 +12,8 @@
 package service;
 
 import java.util.List;
-import daoNew.DaoFactory;
+
+import dao.DaoFactory;
 import entity.Exhibition;
 import entity.ExpoHall;
 import entity.Visitor;
