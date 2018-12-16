@@ -3,7 +3,7 @@ The web project was done for Java learning courses
 1. *Description* 
 
 There is a list of Expositions located in Expo Halls. Visitor chooses topic, buys Tickets and makes a Payment.
-Administrator can add Expositions and Expo Halls (for now the tickets can be added directly in DB).
+Administrator can add Expositions and Expo Halls (for now tickets can be added directly in DB).
 
 2. *Software requirements*
 
