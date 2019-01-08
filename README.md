@@ -1,5 +1,4 @@
 # Exposition Calendar
-The web project was done for Java learning courses
 1. *Description* 
 
 There is a list of Expositions located in Expo Halls. Visitor chooses topic, buys Tickets and makes a Payment.
