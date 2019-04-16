@@ -1,4 +1,11 @@
 # Exposition Calendar
+
+**Client-Server application, where visitors can buy tickets on chosen expositions.**
+
+**Features:** MVC, Maven, Apache Tomcat, Session, Servlet, listeners,
+                JSP, JSTL, localization, authorization, authentication, MySQL DB, 
+                transactions, Log4j.
+                
 1. *Description* 
 
 There is a list of Expositions located in Expo Halls. Visitor chooses topic, buys Tickets and makes a Payment.
